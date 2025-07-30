@@ -1,4 +1,4 @@
-# Hi, I'm Russel Dsouza - aka `russel-404` 👋
+# Hi, I'm Russel Dsouza 👋
 
 Welcome to my GitHub! I'm a passionate Front-End Developer with 2+ years of experience crafting clean, fast, and minimal UIs using **React** - and yes, I occasionally break things on purpose (on Arch Linux, of course 😎).
 
